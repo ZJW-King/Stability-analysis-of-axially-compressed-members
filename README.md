@@ -3,6 +3,7 @@
 An automated calculation program for checking the overall stability of axially compressed steel members with welded I-shaped (H-shaped) cross-sections, developed in accordance with the Chinese national standard GB 50017-2020 Standard for Design of Steel Structures. The repository also includes a companion script that draws the member's cross-section geometric model directly in AutoCAD via pyautocad.
 
 **Authors:** Jianwei Zhang, Chao Yu, Xiya Liu
+
 **Affiliation:** College of Civil Engineering, Tongji University
 
 ## Overview
@@ -155,8 +156,7 @@ Governing axis (max lambda) ---> lambda_bar ---> phi: table lookup + linear inte
 alpha = N / (phi*A*fd) <= 1.0 ? ---> PASS / FAIL
 ```
 
-
-<img width="1232" height="790" alt="image" src="https://github.com/user-attachments/assets/3e4a8491-62b0-4ef9-a62f-12a7ad31748a" />
+<img width="1232" height="790" alt="image" src="https://github.com/user-attachments/assets/ac9c7bd6-c8f5-4fc1-8f66-b4c5c0323f00" />
 
 
 ## Key Implementation Details
