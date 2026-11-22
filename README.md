@@ -201,4 +201,4 @@ acad.model.AddLine(p1, p2)   # top flange / web / bottom flange edges
 
 MIT License - see LICENSE for details.
 
-Copyright (c) 2025 Jianwei Zhang, Chao Yu, Xiya Liu. All rights reserved.
+Copyright © 2025 Jianwei Zhang, Chao Yu, Xiya Liu. All rights reserved.
